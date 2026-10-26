@@ -15,6 +15,9 @@
 
 ![NoBG demo](public/demo.gif)
 
+> [!IMPORTANT]
+> The public instance, nobg.eamonw.nl, is no longer online.
+
 ## Run Locally
 
 Clone the project
