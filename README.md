@@ -47,7 +47,7 @@ Start the server
 
 ## Support
 
-For support, email eamon@vantern.org.
+For support, email me@eamonw.dev.
 
 
 ## Authors
